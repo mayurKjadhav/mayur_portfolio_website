@@ -7,7 +7,7 @@ import AppDesign from "../../assets/app-design.png";
 const Skills = () => {
   return (
     <section id="skills">
-      <span className="sktllTitle">What I do</span>
+      <span className="skillTitle">What I do ?</span>
       <span className="skillDes">
         I'm a Skilled and pationate web designer and developer with experience
         of developing visually appealing and user-friendly Websites. I have a
@@ -24,7 +24,7 @@ const Skills = () => {
               I design user-friendly and attractive interfaces to make digital
               experiences easy and enjoyable. My focus is on creating designs
               that not only look good but also ensure a smooth and pleasing
-              interaction for users.
+              interaction for
             </p>
           </div>
         </div>
